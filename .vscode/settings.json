@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#fff",
+    "editor.selectionHighlightBackground": "#135564",
+    "activityBar.background": "#4A2308",
+    "titleBar.activeBackground": "#68310C",
+    "titleBar.activeForeground": "#FEFAF7"
+  },
+  "cSpell.words": ["Firestore"]
+}
